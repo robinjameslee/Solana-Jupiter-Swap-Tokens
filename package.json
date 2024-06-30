@@ -1,0 +1,20 @@
+{
+  "name": "jupiter_swap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@project-serum/anchor": "^0.26.0",
+    "@solana/web3.js": "^1.94.0",
+    "axios": "^1.7.2",
+    "bs58": "^6.0.0",
+    "dotenv": "^16.4.5"
+  },
+  "type": "module"
+}
